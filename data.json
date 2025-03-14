@@ -1,0 +1,11 @@
+{
+  "movie": [
+    {
+      "title": "Mioskystudio",
+      "id": "1111",
+      "director": "mioskystudio",
+      "imagen": "https://github.com/tu-usuario/tu-repositorio/raw/main/pelicula1.jpg",
+      "video": "https://github.com/tu-usuario/tu-repositorio/raw/main/pelicula1.mp4"
+    }
+  ]
+}
