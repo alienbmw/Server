@@ -4,7 +4,14 @@
       "title": "Mioskystudio",
       "id": "1111",
       "director": "mioskystudio",
-      "imagen": "https://github.com/alienbmw/Server/raw/main/Icon.png",
+      "imagen": "https://github.com/alienbmw/Server/raw/main/Icon.jpg",
+      "video": "video.mp4"
+    },
+    {
+      "title": "Crunch el crujido",
+      "id": "1420",
+      "director": "liner",
+      "imagen": "https://alienbmw.github.io/Server/Icon.jpg",
       "video": "video.mp4"
     }
   ]
