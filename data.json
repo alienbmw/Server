@@ -4,21 +4,24 @@
       "title": "Mioskystudio",
       "id": "LcBQs9ZWs3L",
       "director": "mioskystudio",
-      "imagen": "https://raw.githubusercontent.com/alienbmw/Server/refs/heads/main/Icon.png",
+      "imagen": "https://raw.githubusercontent.com/alienbmw/Server/main/data.json
+",
       "video": "video.mp4"
     },
     {
       "title": "Crunch el crujido",
       "id": "VqUgR5nAjZa",
       "director": "liners",
-      "imagen": "https://raw.githubusercontent.com/alienbmw/Server/refs/heads/main/Icon.png",
+      "imagen": "https://raw.githubusercontent.com/alienbmw/Server/main/data.json
+",
       "video": "video.mp4"
     },
     {
       "title": "vibes",
       "id": "YzJfVuYEHfw",
       "director": "nikolay",
-      "imagen": "https://raw.githubusercontent.com/alienbmw/Server/refs/heads/main/Icon.png",
+      "imagen": "https://raw.githubusercontent.com/alienbmw/Server/main/data.json
+",
       "video": "video.mp4"
     }
   ]
